@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 430
+slug  : photonic-papers
+seal  : 86abdea77a836ea506304c7d3664bea2c9142a0326cd6ca279ea63de5c415a5b
+prev  : 04c1ee61aa182c4cb13745dfe677605fb90d80429f022481a9e2ad6b6a75663c
+link  : fd2e5144682800d7694cdad148a59d2e1cf9302f04e3128e975b696a78e932c3
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
